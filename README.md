@@ -1,4 +1,4 @@
-### rgb-mixer
+# rgb-mixer
 
 A C++ program for finding an average HEX color code from given assortments of the aforementioned.
 
